@@ -22,3 +22,8 @@ numFormat(1000.553, ".", ",", 4); //returns 1,000.5530
 Example 3: 
 numFormat(-200450, ",", " ", 2); //returns -200 450,00
 </pre>
+
+
+<b>Implementation</b>: http://www.vitalija-alisauskaite.com/demo-projects/charts/index.html
+
+![Tabular-Report-Example](https://github.com/alv2017/Images/blob/master/Js-numFormat/tabular_report.png)
